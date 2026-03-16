@@ -1,6 +1,6 @@
 # Alex Merkulov - Walmart
 
-![Exit Vision Code](exitvisioncode.jpg)
+[![Exit Vision Code](previews/exitvisioncode.jpg)](exitvisioncode.jpg)
 
 ## Goals 2025 — Completed in Q1 & Q2 2025
 
@@ -27,15 +27,15 @@ Receipt latency significantly decreased after optimization work completed in Sep
 
 ## Awards and Recognition
 
-![Sam's Award President 2025](sams_award_president2025.jpg)
+[![Sam's Award President 2025](previews/sams_award_president2025.jpg)](sams_award_president2025.jpg)
 
-![Team Award](teamaward.jpg)
+[![Team Award](previews/teamaward.jpg)](teamaward.jpg)
 
-![CEO](ceo.jpg)
+[![CEO](previews/ceo.jpg)](ceo.jpg)
 
-![CEO 2](ceo2.jpg)
+[![CEO 2](previews/ceo2.jpg)](ceo2.jpg)
 
-![Craig 2025-03](craig202503.jpg)
+[![Craig 2025-03](previews/craig202503.jpg)](craig202503.jpg)
 
 ## Documents
 
