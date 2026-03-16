@@ -8,7 +8,7 @@ Manager's summary: These goals reflect Alex's current and recent contributions a
 
 **All goals below were completed as real tasks in Q1 & Q2 of 2025.**
 
-[Full Goals Document](AlexMerkulovGoals2025.txt)
+[Goals Document from Manager's words](AlexMerkulovGoals2025.txt)
 
 1. **RFID Basket Matching Logic** — Design, develop, and roll out the RFID Basket Matching module for improved basket-item mapping accuracy.
 2. **System Optimization & Cost Reduction** — Log optimization, Cloud Uploader optimization, Redis LUA integration, secret caching, and edge caching to reduce costs and latency.
