@@ -1,0 +1,114 @@
+From: Alex Merkulov <Alex.Merkulov@samsclub.com>
+Date: Tuesday, October 21, 2025 at 11:26 AM
+To: Alex Merkulov <Alex.Merkulov@samsclub.com>
+Subject: goals
+
+Proposed Goals for Alex (Based on Current Contributions and upcoming priorities)
+
+The below goals are intended as a working draft to reflect current focus areas based on existing projects, contributions and upcoming priorities. This list is not exhaustive and may evolve based on the team’s ongoing priorities, development needs, support requirements, and cross-functional collaboration.
+
+You are not expected to follow these goals word-for-word, nor should they be interpreted as the sole measure of performance. Performance discussions will continue to be based on overall contributions, alignment with business priorities, leadership expectations, and results achieved in partnership with the team and organizational objectives. While you are not solely responsible for achieving them, you are expected to contribute through your team’s work toward these broader objectives whenever needed.
+
+Also, we will only use the broader goals for the campus portal and not the specific tasks/ key results.
+
+1. RFID Basket Matching Logic Development and Rollout
+
+Objective: Design, develop, and support the successful rollout of the RFID Basket Matching Logic module to improve operational efficiency and accuracy of basket-item mapping.
+
+Key Results for the team:
+
+· Complete development and functional validation of the RFID Basket Matching Logic.
+
+· Achieve seamless integration with existing systems with low data mismatch rate in pilot validation.
+
+· Provide documentation and rollout support for production deployment across applicable clubs.
+
+2. System Optimization and Cost Reduction
+
+Objective: Optimize system performance, resource utilization, and infrastructure cost through focused code and configuration enhancements.
+
+Key Results for the team:
+
+· Implement log optimization to reduce Log Analytics usage without compromising observability.
+
+· Complete Cloud Uploader optimization to reduce blob operations, leading to measurable cloud cost savings.
+
+· Integrate Redis LUA reads within the Shrinkage Detector pipeline for improved real-time performance.
+
+· Deploy secret caching to improve app startup time.
+
+· Implement file download by chunk and edge caching, improving resiliency and reducing latency.
+
+3. Observability and Maintenance Enhancements
+
+Objective: Strengthen application observability, reliability, and maintainability across services.
+
+Key Results for the team:
+
+· Develop and deploy new performance log categories for better visibility and issue triage.
+
+· Lead Triton Server repository refactor to separate custom and fallback configurations, ensuring flexibility and cleaner maintenance.
+
+4. CPH Platform Integration and Data Reliability
+
+Objective: Ensure the reliability, scalability, and integration efficiency of CPH systems.
+
+Key Results for the team:
+
+· Complete CPH Production Topic onboarding and integration.
+
+· Conduct and document CPH Receipt Data investigations, ensuring data consistency and correctness across ingestion pipelines.
+
+· Resolve Cosmos DB 429 throttling issues through table migration and configuration adjustments, improving stability and throughput.
+
+5. Project Support and Cross-Team Collaboration
+
+Objective: Provide consultation and support for critical projects and cross-team initiatives.
+
+Key Results for the team:
+
+· Offer technical support and consultation for the “Just Unload” project, ensuring successful deployment within project timelines.
+
+· Collaborate with stakeholders to resolve Terraform configuration and deployment issues affecting infrastructure automation.
+
+6. Regression Testing and Quality Assurance
+
+Objective: Enhance regression testing coverage and reliability to maintain system stability.
+
+Key Results for the team:
+
+· Identify, fix, and document recurring regression test failures.
+
+· Improve automation efficiency and reduce manual test effort.
+
+7. Cloud Integration Improvements and Maintenance
+
+Objective: Ensure continuous improvement and operational reliability of cloud-integrated systems.
+
+Key Results for the team:
+
+· Integrate terminals from the common package to standardize communication layers.
+
+· Ensure Kafka certificate renewals are completed prior to expiry to prevent service disruption.
+
+· Implement secondary service bus integration to improve fault tolerance and message delivery reliability.
+
+· Perform preventive maintenance on CTH Kafka by migrating to the GTP topic.
+
+· Resolve Scout Kafka multi-region active consume issues to restore optimal performance.
+
+8. Leadership and Collaboration (Standard Expectation)
+
+Objective: Demonstrate proactive collaboration, accountability, and adherence to organizational values while delivering on technical objectives.
+
+Key Results for the team:
+
+· Maintain consistent communication with cross-functional partners and leads.
+
+· Contribute to team discussions with solutions-oriented input and maintain constructive dialogue.
+
+· Support team productivity by ensuring deliverables meet agreed quality and timeliness standards.
+
+Note:
+
+These goals are intended to reflect your current and recent contributions and to provide measurable clarity on expectations moving forward. They can be refined jointly in follow-up discussions to ensure alignment with organizational OKR structure, upcoming priorities and weighting
